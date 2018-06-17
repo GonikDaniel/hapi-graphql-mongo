@@ -1,0 +1,10 @@
+{
+  "name": "Hapi-GraphQL-Mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.5.1",
+    "nodemon": "^1.17.5"
+  }
+}
